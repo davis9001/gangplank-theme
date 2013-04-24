@@ -8,6 +8,8 @@ Template:       _straps
 Version:        0.1.0
 */
 
+@import url('../_straps/style.css');
+
 @import url(http://fonts.googleapis.com/css?family=Rokkitt:400,700); /* Rockwell-alike */
 
 h1 {
